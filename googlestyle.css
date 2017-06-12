@@ -1,10 +1,51 @@
-.sbox {
-	margin: auto;
-	width: 40%;
-}
-
 
 img {
-    display: block;
-    margin: auto; height: 145px;
+	display: block;
+	margin: auto; height: 145px;
 	}
+
+.center {
+	margin: auto;
+	width: 20%;
+}
+
+.search{
+  width: 196px;
+  margin: 0;
+  margin: 0px
+	}
+
+select, button {
+	width: 95px
+	margin: 0;
+}
+
+.button {
+	width: 98px;
+	margin: 2px;
+  background-color: gray;
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+
+}
+
+.w3-container {
+	width: 500px
+	margin: 0;
+}
+
+li {
+	float:left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
