@@ -75,6 +75,8 @@ select, button {
   float:left;
   padding: 5px;
   text-decoration: none;
+  list-style: none
+
 
 }
 
@@ -82,7 +84,6 @@ select, button {
   background-color: gray;
   float: right;
   display: inline;
-  list-style: none;
   list-style: none;
 }
 
