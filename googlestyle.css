@@ -3,7 +3,6 @@ li a {
 	border: 12px;
 	margin-top: 12px;
 
-
 }
 .button3 {
 	margin-top: 9px
@@ -14,7 +13,7 @@ img {
 	margin: auto; height: 145px;
 	}
 
-header {
+header, footer {
 	font-family: arial,sans-serif; ;
 	font-size: 12px;
 	margin-bottom: 90px
@@ -24,7 +23,7 @@ header {
 	width: 20%;
 }
 
-.button2 { //*Sign in button *//
+.button2 { //*Sign in button */
 	background-color: blue;
   border: none;
   color: white;
@@ -60,10 +59,6 @@ select, button {
 
 }
 
-.w3-container {
-	width: 500px
-	margin: 0;
-}
 
 .sbar {
 	float:left;
@@ -76,6 +71,21 @@ select, button {
 
 }
 
+.left {
+  float:left;
+  padding: 5px;
+  text-decoration: none;
+
+}
+
+.bbar {
+  background-color: gray;
+  float: right;
+  display: inline;
+  list-style: none;
+  list-style: none;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -83,8 +93,10 @@ ul {
     overflow: hidden;
   }
 
+
+
 a {
     color: black
     cursor: auto;
     text-decoration: none;
-}
+} 
